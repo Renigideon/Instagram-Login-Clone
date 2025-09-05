@@ -1,0 +1,140 @@
+*{
+    margin: 0%;
+    padding: 0%;
+background-color: rgba(0, 0, 0, 0.837);
+   
+}
+.landingpage{
+    margin: 50px;
+    width: 540px;
+    padding-left: 145px;
+    background-color: rgba(0, 0, 0, 0.508);
+}
+.rightbox{
+    position: relative;
+    left: 850px;
+    bottom: 500px;
+}
+.companyname{
+    font-size: 40px;
+    font-family:'sans';
+    position: relative;
+    right: 15px;
+    color: white;
+    
+  
+}
+.user{
+    border-radius: 5px;
+    width: 250px;
+    height: 39px;
+    position: relative;
+    top: 30px;
+    right: 50px;
+    color: white;
+    border: 1px solid;
+    
+     background-color: rgba(128, 128, 128, 0.146);
+    
+}
+.password{
+    border-radius: 5px;
+    width: 252px;
+    height: 39px;
+    position: relative;
+    top: 74px;
+    right: 307px;
+    color: white;
+    border: 1px solid rgba(14, 1, 1, 0.999);
+    background-color: rgba(128, 128, 128, 0.146);
+   
+}
+.login{
+    border-radius: 5px;
+    width: 253px;
+    height: 30px;
+    position: relative;
+    top: 120px;
+    right: 564px;
+    color: white;
+    background-color: rgb(94, 74, 222);
+}
+.or{
+   position: relative;
+   top: 125px;
+   left: 22px;
+   color: white;
+}
+.face{
+    width: 29px;
+    position: relative;
+    top: 143px;
+    right: 10px;
+    
+}
+
+.with{
+    text-decoration-line: none;
+    position: relative;
+    top: 136px;
+    right: 8px;
+}
+.forgot{
+    position: relative;
+    top: 164px;
+    left: 14px;
+    font-size: 16px;
+    color: white;
+}
+.dontacc{
+     position: relative;
+    top: 234px;
+    right: 23px;
+    color: white;
+}
+.sign{
+     text-decoration-line: none;
+    position: relative;
+    top: 213px;
+    left: 128px;
+   
+}
+.down,.footer{
+    display: flex;
+    position: relative;
+    bottom: 104px;
+    left: 28px;
+}
+.footer{
+    color: rgba(128, 128, 128, 0.698);
+    font-size: 9px;
+}
+.footer,h2{
+    padding-left: 18px;
+    position: relative;
+    text-align: center;
+}
+.select{
+    position: relative;
+    right:668px;
+    bottom: 59px;
+    
+}
+.lang{
+    position: relative;
+    left: 1px;
+   background-color: rgba(0, 0, 0, 0.837);
+   color: grey;border: 0px;
+   
+}
+.copy{
+     position: relative;
+    left: 76px;
+    bottom: 17px;
+   background-color: rgba(0, 0, 0, 0.837);
+   color: grey;border: 0px;
+   font-size: 15px;
+}
+
+
+
